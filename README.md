@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Релиз-v2.14.1-FF6B00?style=flat-square" alt="Версия">
+  <img src="https://img.shields.io/badge/Релиз-v2.15.0-FF6B00?style=flat-square" alt="Версия">
   <img src="https://img.shields.io/badge/Платформа-Windows-0078D6?style=flat-square&logo=windows" alt="Платформа">
   <img src="https://img.shields.io/badge/Статус-Active-2ea44f?style=flat-square" alt="Статус">
 </p>
