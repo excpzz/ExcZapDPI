@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="6089618d-c5ea-42ad-8f59-e7c0896443c2" width="160" height="160" alt="ExcZap Logo" style="border-radius: 50%;">
+  <img src="6089618d-c5ea-42ad-8f59-e7c0896443c2.png" width="160" height="160" alt="ExcZap Logo">
 </p>
 
 <h1 align="center">ExcZapDPI</h1>
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/excpzz/ExcZapDPI?style=flat-square&color=FF6B00&label=Версия" alt="Версия">
+  <img src="https://img.shields.io/badge/Релиз-v2.14.1-FF6B00?style=flat-square" alt="Версия">
   <img src="https://img.shields.io/badge/Платформа-Windows-0078D6?style=flat-square&logo=windows" alt="Платформа">
-  <img src="https://img.shields.io/github/downloads/excpzz/ExcZapDPI/total?style=flat-square&color=orange&label=Скачиваний" alt="Скачиваний">
+  <img src="https://img.shields.io/badge/Статус-Active-2ea44f?style=flat-square" alt="Статус">
 </p>
 
 <p align="center">
@@ -31,11 +31,11 @@
 
 ## 📥 Скачать программу
 
-Нажмите на кнопку ниже, чтобы перейти на страницу скачивания последней версии:
+Нажмите на кнопку ниже, чтобы перейти к скачиванию последней версии:
 
 [![Скачать ExcZap](https://img.shields.io/badge/Скачать-ExcZap.exe-2ea44f?style=for-the-badge&logo=windows)](https://github.com/excpzz/ExcZapDPI/releases/latest)
 
-> 💡 **Как запустить:** Скачайте файл `ExcZap.exe` из раздела [Releases](https://github.com/excpzz/ExcZapDPI/releases/latest) и запустите его на вашем ПК.
+> 💡 **Как запустить:** Скачайте готовый файл из раздела [Releases](https://github.com/excpzz/ExcZapDPI/releases/latest) и запустите его на вашем ПК.
 
 ---
 
@@ -52,3 +52,4 @@
 * **USDT (TRC-20):**
   ```text
   TQ6ex2EJdMUF8vb2yvBL6CUGYejm6hw2ui
+Спасибо каждому за поддержку! 🙏
