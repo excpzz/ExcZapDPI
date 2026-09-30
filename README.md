@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="6089618d-c5ea-42ad-8f59-e7c0896443c2.png" width="160" height="160" alt="ExcZap Logo">
+  <img src="https://github.com/user-attachments/assets/93c4048e-f578-43fd-bc10-6b0c33c5a22c" width="160" height="160" alt="ExcZap Logo">
 </p>
 
 <h1 align="center">ExcZapDPI</h1>
